@@ -1,5 +1,6 @@
 import streamlit as st
-from modules import image_cropper, point_cloud_filter
+import image_cropper
+import point_cloud_filter
 
 st.title("Geospatial Processing Hub")
 
